@@ -1,2 +1,2 @@
-Computer Networks Lab Assignments
+Computer Networks Lab Assignments.
 Important assignments for self guidance.
